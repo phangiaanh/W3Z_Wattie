@@ -17,7 +17,7 @@ torchaudio==2.6.0+cu118
 torchgeometry @ git+https://github.com/phangiaanh/W3Z_Packages.git@f33ae7151913397b9e521f7fcac3b15c9196f877#subdirectory=torchgeometry
 torchvision==0.21.0
 trimesh==4.6.6
--e git+https://github.com/phangiaanh/W3Z_AnimalPIPE.git@113df38c5ab7a2686cc69910db421d67d5dacd6d#egg=W3Z_AnimalPIPE
--e git+https://github.com/phangiaanh/W3Z_AnimalSkeletons.git@cd414bf30916c87301beffe5c95a482fc808af10#egg=W3Z_AnimalSkeletons
--e git+https://github.com/phangiaanh/W3Z_AnimalTexture.git@3d0ff4b0a2f45f07efc2f5781dbba80a1939b484#egg=W3Z_AnimalTexture
+W3Z_AnimalPIPE @ git+https://github.com/phangiaanh/W3Z_AnimalPIPE.git@7a42b877d546ac9d80d131785a2059ebcab74396
+W3Z_AnimalSkeletons @ git+https://github.com/phangiaanh/W3Z_AnimalSkeletons.git@264aeefb32e74e14ac08c4786fee1874e91e0ba2
+W3Z_AnimalTexture @ git+https://github.com/phangiaanh/W3Z_AnimalTexture.git@3d0ff4b0a2f45f07efc2f5781dbba80a1939b484
 wheel==0.45.1
