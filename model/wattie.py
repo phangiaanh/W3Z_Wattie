@@ -188,6 +188,6 @@ class Wattie(nn.Module):
 if __name__ == "__main__":
     opts = parse_args()
     model = Wattie(opts)
-    inp = torch.rand(20, 3, 256, 256)
+    inp = torch.rand(128, 3, 256, 256)
     out = model(inp, )
     print('rot', out[0].shape, 'shape', out[1].shape, 'cam', out[2].shape)

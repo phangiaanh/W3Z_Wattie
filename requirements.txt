@@ -1,12 +1,9 @@
 aiohttp==3.11.18
 chumpy @ git+https://github.com/phangiaanh/W3Z_Packages.git@2fdf8b78afeae41d5c4b42f730c207c82e917cd2#subdirectory=chumpy
-diffusers==0.32.2
 einops==0.8.1
 fvcore==0.1.5.post20221221
-gdown==5.2.0
 matplotlib==3.10.1
 opencv-python==4.11.0.86
-pip==25.0.1
 plotly==6.0.1
 PyQt6==6.8.1
 PySocks==1.7.1
