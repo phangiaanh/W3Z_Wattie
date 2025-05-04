@@ -13,7 +13,7 @@ PySocks==1.7.1
 pytorch-lightning==2.5.1.post0
 pytorch3d @ file:///content/pytorch3d-0.7.8-cp311-cp311-linux_x86_64.whl
 tensorboard==2.19.0
-torchaudio==2.6.0+cu118
+torchaudio
 torchgeometry @ git+https://github.com/phangiaanh/W3Z_Packages.git@f33ae7151913397b9e521f7fcac3b15c9196f877#subdirectory=torchgeometry
 torchvision==0.21.0
 trimesh==4.6.6
